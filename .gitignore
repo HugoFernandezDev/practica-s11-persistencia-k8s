@@ -1,0 +1,11 @@
+# Archivos locales de apoyo académico (Informe y Video)
+DOCUMENTACION_TECNICA.html
+DOCUMENTACION_TECNICA.md
+GUION_VIDEO_DEMOSTRACION.md
+
+# Dependencias y logs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+{
+  "name": "springwebflux-backend",
+  "version": "1.0.0",
+  "description": "Backend Reactivo Spring WebFlux con MongoDB y Actuator Probes para S11 AP8",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0"
+  }
+}
